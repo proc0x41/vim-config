@@ -1,6 +1,6 @@
 # vim-config
 
-This repository contains my personal Vim configuration, designed to enhance productivity and streamline development workflows.([Akamai][1])
+This repository contains my personal Vim configuration, designed to enhance productivity and streamline development workflows.
 
 ## 🚀 Features
 
